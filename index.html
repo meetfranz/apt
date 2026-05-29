@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Franz APT repository</title>
+<style>
+  body { font: 16px/1.6 system-ui, sans-serif; max-width: 42rem; margin: 4rem auto; padding: 0 1.25rem; color: #1a1a1a; }
+  code, pre { background: #f4f4f5; border-radius: 6px; }
+  code { padding: 0.1em 0.35em; }
+  pre { padding: 1rem; overflow-x: auto; }
+  h1 { font-size: 1.6rem; }
+  a { color: #6c47ff; }
+</style>
+</head>
+<body>
+  <h1>Franz APT repository</h1>
+  <p>Signed Debian/Ubuntu package channel for <a href="https://meetfranz.com">Franz</a>.
+     Installing the <code>.deb</code> from <a href="https://meetfranz.com/download/linux">meetfranz.com</a>
+     registers this repository automatically, so <code>apt upgrade</code> keeps Franz current.</p>
+  <p>To add it manually:</p>
+  <pre>curl -fsSL https://apt.franzinfra.com/franz.gpg | sudo tee /etc/apt/trusted.gpg.d/franz.gpg &gt; /dev/null
+echo "deb [signed-by=/etc/apt/trusted.gpg.d/franz.gpg] https://apt.franzinfra.com/ stable main" \
+  | sudo tee /etc/apt/sources.list.d/franz.list
+sudo apt update &amp;&amp; sudo apt install franz</pre>
+  <p>Packages are signed with the Franz Release Signing key
+     (<code>88DF 5D46 F4CD 69ED 6FEB 262D DF5B 971E 06FB 50A9</code>).</p>
+</body>
+</html>
