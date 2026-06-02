@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Franz
+Label: Franz
+Architecture: amd64
+Description: Franz APT repository — signed .deb channel for Linux auto-updates

@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Franz
+Label: Franz
+Suite: stable
+Codename: stable
+Date: Tue, 02 Jun 2026 05:36:18 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Franz APT repository — signed .deb channel for Linux auto-updates
+MD5Sum:
+ de654e495c7d8ae35c44919882a4ee7e 854 main/binary-amd64/Packages
+ 07c99c5fc35d6ef93077c360def11ded 560 main/binary-amd64/Packages.gz
+ ffc27204eb55a8345bd54e629b5bb2dd 160 main/binary-amd64/Release
+ 3a546132800a3ec146e8deb834af3d96 854 main/binary-arm64/Packages
+ 84772972a9b46eb5715619b523046b06 563 main/binary-arm64/Packages.gz
+ dc893bc6cadde4fb1cc5522d0515e364 160 main/binary-arm64/Release
+SHA1:
+ 1e7bd37c1c1955e47b6737e85497d48903d44b5b 854 main/binary-amd64/Packages
+ 658df1c73de8d65f4e18da56bb99e569235bbb25 560 main/binary-amd64/Packages.gz
+ 1b18a18c80009fcaf8f1f520bcc248eda689d2a8 160 main/binary-amd64/Release
+ db7d6fa18bff75ea35d80f294993ab23f100497e 854 main/binary-arm64/Packages
+ db3e8426def76f95f016beaec5a120b3cd43dc1b 563 main/binary-arm64/Packages.gz
+ 8a894ac02833e1a632fb3bc7e3254e4dba00c337 160 main/binary-arm64/Release
+SHA256:
+ 5bf80661ece5548b46a5f116d8f1d5ff6928f96d87c8218da976900827a7afbb 854 main/binary-amd64/Packages
+ f7e8879215bba9b6d77f76b35e457db8da1d22192bed23fa6e3c5730df13bda1 560 main/binary-amd64/Packages.gz
+ 9b43f00357affa869f39fe825abe24a376a222a05a2c795a9d90d721899ded1f 160 main/binary-amd64/Release
+ 037f140f2a5caecd215d24675fbbdad9ac143da9b98c7be6a1574dc47632407f 854 main/binary-arm64/Packages
+ 446f487dab5c70257732b1524998104153a85eaedfbb5cc2d6554332a38b22fd 563 main/binary-arm64/Packages.gz
+ 9833f81dad26a3e2b45974afa4f7d9690da8eac713280e9af80068da23cbe992 160 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSI311G9M1p7W/rJi3fW5ceBvtQqQUCah5r0wAKCRDfW5ceBvtQ
+qf7WAQCL8sfZyUZCxz0qvoq3LIl3cVogcnCxeE+hwdSxyTSTyAEA/DVUVsM+7nQ4
+Www72TxhLuMKZwPRwf0e5HcTEKhC9gw=
+=Ap+Z
+-----END PGP SIGNATURE-----
