@@ -2,28 +2,28 @@ Origin: Franz
 Label: Franz
 Suite: stable
 Codename: stable
-Date: Fri, 12 Jun 2026 02:39:16 UTC
+Date: Mon, 29 Jun 2026 23:45:56 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Franz APT repository — signed .deb channel for Linux auto-updates
 MD5Sum:
- 4b0314e6deb855ac8ee590ad470c206e 854 main/binary-amd64/Packages
- d2b6be4123e871b0ab5ef5ee5762464d 563 main/binary-amd64/Packages.gz
+ f324dbed6cde954b097ec8167ce2f872 868 main/binary-amd64/Packages
+ 2ca6a69f9f2ed985ca0bc37d6c211ad6 568 main/binary-amd64/Packages.gz
  ffc27204eb55a8345bd54e629b5bb2dd 160 main/binary-amd64/Release
- 79056f2ff27c4dd5e0d2c8919dd992b4 854 main/binary-arm64/Packages
- 80e61aac885b2b0c041ea6a7dc8b5412 563 main/binary-arm64/Packages.gz
+ 1ed578b08d03309f46a4d75a33a3fe25 868 main/binary-arm64/Packages
+ 4c7ad7c9442002134d1eaf50487651cd 570 main/binary-arm64/Packages.gz
  dc893bc6cadde4fb1cc5522d0515e364 160 main/binary-arm64/Release
 SHA1:
- 7ddc6af36a16e294480cd3cc74b4bab4b4988154 854 main/binary-amd64/Packages
- 74ee807051eebc1f64d81774f0aee10a239362ad 563 main/binary-amd64/Packages.gz
+ aaa5e9c95f66c694cf88cba1d0a3ca859a31be80 868 main/binary-amd64/Packages
+ 285e4c36dd5c28238086d40804f470878d45d4db 568 main/binary-amd64/Packages.gz
  1b18a18c80009fcaf8f1f520bcc248eda689d2a8 160 main/binary-amd64/Release
- 1e9e2beaa0a664f859d8525f68761b18e20bd344 854 main/binary-arm64/Packages
- 7c687ef2707b358db269dfced7ac3ab1677096da 563 main/binary-arm64/Packages.gz
+ 7bdb8bd02da8233accfa2c8eccbf43d30bdfd12f 868 main/binary-arm64/Packages
+ 1db4b7394b0ee0564986b529b1ea509e52d41f4e 570 main/binary-arm64/Packages.gz
  8a894ac02833e1a632fb3bc7e3254e4dba00c337 160 main/binary-arm64/Release
 SHA256:
- 186215a5df97c8559f4e02610f2bedd051546f202885965f9fe9d3e7ed25bfd6 854 main/binary-amd64/Packages
- 780ca31196d8f4103975808c50e0c8632e9ef47ef0b9e61f36470c2e69e6ee8e 563 main/binary-amd64/Packages.gz
+ 0015cac68753a51b44b7c5a07e112d29a08ba18813630acdd16988836a1dcf2b 868 main/binary-amd64/Packages
+ 892002a98882c51360f9565506a87a676fb3de38c9d6549054f625ebfb2c5c8f 568 main/binary-amd64/Packages.gz
  9b43f00357affa869f39fe825abe24a376a222a05a2c795a9d90d721899ded1f 160 main/binary-amd64/Release
- d3f640bc799d99e44d9f780bba6026f681c75517e5539ea92d91cfa99b5653d7 854 main/binary-arm64/Packages
- d19acb60fa11870bfd8ae42a4f725c86089ca2aa67a19fbf90f67b3528a8166a 563 main/binary-arm64/Packages.gz
+ 41f04fbb1b4252e1574f3b2361c5ea8c8dff45587b8b0ee63e6a879b9a893282 868 main/binary-arm64/Packages
+ 09dd5ced868ce3549769a6ec09e23d8bf9c2c3a3abde339146974783b5e64f29 570 main/binary-arm64/Packages.gz
  9833f81dad26a3e2b45974afa4f7d9690da8eac713280e9af80068da23cbe992 160 main/binary-arm64/Release
