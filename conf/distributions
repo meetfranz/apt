@@ -6,3 +6,12 @@ Architectures: amd64 arm64
 Components: main
 Description: Franz APT repository — signed .deb channel for Linux auto-updates
 SignWith: 88DF5D46F4CD69ED6FEB262DDF5B971E06FB50A9
+
+Origin: Franz
+Label: Franz
+Suite: beta
+Codename: beta
+Architectures: amd64 arm64
+Components: main
+Description: Franz APT repository — beta prerelease channel
+SignWith: 88DF5D46F4CD69ED6FEB262DDF5B971E06FB50A9
