@@ -1,20 +1,20 @@
 Package: franz
-Version: 6.6.0
+Version: 6.7.0
 License: unknown
 Vendor: meetfranz.com
 Architecture: arm64
 Maintainer: meetfranz.com
-Installed-Size: 1296007
+Installed-Size: 1297509
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Homepage: https://meetfranz.com
 Priority: optional
 Section: default
-Filename: pool/main/f/franz/franz_6.6.0_arm64.deb
-Size: 398744432
-SHA256: 2b5b5ad1024384e6cc2b8a74503d727c8eb496b3e112e21ce07b3d4c4751677c
-SHA1: f13650d438ab16be43f137d65350a81f79e07b9a
-MD5sum: 95509b95dc4a6265398d4db7a89bbfad
+Filename: pool/main/f/franz/franz_6.7.0_arm64.deb
+Size: 396729816
+SHA256: 1a329e690b5c10993909d88d01ef18dbc0ef71f5bd76080d0eec66612c71651a
+SHA1: 9d63881f734361a34decd5288a632c4ab018b777
+MD5sum: 7c69ac6b45dc032bd9916282e5054fba
 Description: Messaging app for WhatsApp, Slack, Telegram, and many more
   Franz is a desktop messaging aggregator that unifies WhatsApp, Slack, Telegram, Discord, Signal, and many other services into a single workspace, with AI-assisted email triage, todos, and notifications.
 
