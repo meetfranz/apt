@@ -1,0 +1,29 @@
+Origin: Franz
+Label: Franz
+Suite: beta
+Codename: beta
+Date: Sun, 13 Sep 2026 22:17:28 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Franz APT repository — beta prerelease channel
+MD5Sum:
+ a2a9d74bfd895b4f08ff717ec53f3eca 868 main/binary-amd64/Packages
+ b1b31d978946fa9ff4849db4fc4b43bc 571 main/binary-amd64/Packages.gz
+ 0260b1815cd6003ebee94f7d3d81e9b2 139 main/binary-amd64/Release
+ 9e57e669f1f44c303288b6f3e7d47895 868 main/binary-arm64/Packages
+ abcebe7e8bdd47899ecaf4082158871e 568 main/binary-arm64/Packages.gz
+ 722f14c813b593bc7932f17b4106ffed 139 main/binary-arm64/Release
+SHA1:
+ 0104dea1d68c390981471f1aeebc4d41463debf2 868 main/binary-amd64/Packages
+ a7055c9b6755ca82f36a8fbf041a3556509105cb 571 main/binary-amd64/Packages.gz
+ b66dbd66b37b7fe145f3e9546ecda4295c315f81 139 main/binary-amd64/Release
+ a7f36ff3e12097204858d6fac9166ba644caf37d 868 main/binary-arm64/Packages
+ 6d6ec6e6ce12809f85cffedd8daafcbce5c0f117 568 main/binary-arm64/Packages.gz
+ a97e497311e42d8ff56f291a4662f9f42a7ade60 139 main/binary-arm64/Release
+SHA256:
+ 9253d928aef38f0fbbc217d4e6f0ce27c1d3e0eff96676c6d8f30de09f692219 868 main/binary-amd64/Packages
+ 7b9beb7c2594a53b24c6351fda3279d6832023f98c4749f43e0b9f5422ac73d0 571 main/binary-amd64/Packages.gz
+ 858eb789949ad595a316e3fd1c2e0d1b0fddf980f236a4313c55e21afb312f38 139 main/binary-amd64/Release
+ 00e37beb1fe3add1fb88b5f20e1f269cd8e562ac7572c3b116ddb065dc745305 868 main/binary-arm64/Packages
+ 70680f9b5d46eb6e80ce380d2a84af274942317405883acb77ea21f3ed294915 568 main/binary-arm64/Packages.gz
+ 50648ed0d4b43332007291d2b0d8823c77a62b5a8c52961358b61ae9d62db6d9 139 main/binary-arm64/Release
