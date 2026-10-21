@@ -11,10 +11,10 @@ Homepage: https://meetfranz.com
 Priority: optional
 Section: default
 Filename: pool/main/f/franz/franz_6.10.0_amd64.deb
-Size: 426412224
-SHA256: a4ee26e2ee887c78c7e3ec5ea9221ae8e9922800ec2de91a650cf097a3ce6f7e
-SHA1: bede40dc8a9db3a839250ec469c1f89d4f359c5f
-MD5sum: 07c71c7ffdb443dae7c3a7ce7f4e53b2
+Size: 426410736
+SHA256: 8ac1d5b310bb7c90d1c7c1dc05d292dece1153de573ddfd4dbd1a5d6d7099ae2
+SHA1: 1c39523f5d2afa15b9b22f832c6ebdcf77788409
+MD5sum: fd51b6a9c072671efe3f83d3cf6a788f
 Description: Messaging app for WhatsApp, Slack, Telegram, and many more
   Franz is a desktop messaging aggregator that unifies WhatsApp, Slack, Telegram, Discord, Signal, and many other services into a single workspace, with AI-assisted email triage, todos, and notifications.
 
