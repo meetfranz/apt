@@ -5,35 +5,35 @@ Origin: Franz
 Label: Franz
 Suite: stable
 Codename: stable
-Date: Sun, 15 Nov 2026 20:49:34 UTC
+Date: Sat, 28 Nov 2026 18:09:12 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Franz APT repository — signed .deb channel for Linux auto-updates
 MD5Sum:
- 81d2a02c036f3eeed80785014ffbc5c5 856 main/binary-amd64/Packages
- 46f5ff55d9ab2aef3680230fd5b857c9 560 main/binary-amd64/Packages.gz
+ 285f42444e9c1b8d5c2e3ec7cc4b1c21 856 main/binary-amd64/Packages
+ 6f5f1abed50255026ca9fcbc884f415b 563 main/binary-amd64/Packages.gz
  ffc27204eb55a8345bd54e629b5bb2dd 160 main/binary-amd64/Release
- 93b6242a766bc6dffe75d8937057f979 856 main/binary-arm64/Packages
- 7fabbccec1cec97df830c8ea7d109006 563 main/binary-arm64/Packages.gz
+ bb0185e58df34e1b04140b426f3977e3 856 main/binary-arm64/Packages
+ f44e38120c67211f144436049e4173d4 560 main/binary-arm64/Packages.gz
  dc893bc6cadde4fb1cc5522d0515e364 160 main/binary-arm64/Release
 SHA1:
- 3a8205d2ee657793dcff2bbefd159fc6479dee72 856 main/binary-amd64/Packages
- 3ce1c70052ff8c5bb5d5c9f2356d9fa448429ccf 560 main/binary-amd64/Packages.gz
+ 352a0f7f135dde850d9fced8617b7b40cab75ce9 856 main/binary-amd64/Packages
+ 0614d8980cf980978123accbcc53b7539af4be5c 563 main/binary-amd64/Packages.gz
  1b18a18c80009fcaf8f1f520bcc248eda689d2a8 160 main/binary-amd64/Release
- 4312e8e750d94137f5f586bb70ce500e19111e14 856 main/binary-arm64/Packages
- 3406446b625c809f2fafe7570726c6977c62c9a1 563 main/binary-arm64/Packages.gz
+ 87bb367fb2b52f21ab5c5725b519304160836f5e 856 main/binary-arm64/Packages
+ 0c4a45af4eb57b0c446afb2148f0a2ad74084ffd 560 main/binary-arm64/Packages.gz
  8a894ac02833e1a632fb3bc7e3254e4dba00c337 160 main/binary-arm64/Release
 SHA256:
- 1d01f22953c48d0b80874a81eab336161d99d23716af0284941f39f4e42f513e 856 main/binary-amd64/Packages
- 57dba185530568e24f25574ef6a0998b21be80afe163d1781a26a41ad606073a 560 main/binary-amd64/Packages.gz
+ dfc660a7cc7283d474819239e3022bf1f8ad6abb7ba0f881bbe1adf50de4b5f3 856 main/binary-amd64/Packages
+ 572c5fff8bc1cbb002dbc63da98b7cbcd8b5b1c8416d5b097b7b115af6793105 563 main/binary-amd64/Packages.gz
  9b43f00357affa869f39fe825abe24a376a222a05a2c795a9d90d721899ded1f 160 main/binary-amd64/Release
- c828addb7c5f1c39deffdea4f725e2cee19e031bbf34cde9604e2fd8ce838ea3 856 main/binary-arm64/Packages
- cb3758c14d60efedabe6330cfd3bf799d3c5bc8671bb498cc01921f8608b9f0d 563 main/binary-arm64/Packages.gz
+ 0a001743ecdd86f5fe8e1c118ca6912113af867d67e590bc05d155eea18303b7 856 main/binary-arm64/Packages
+ e5ad25b89f483f6497d5b1e87e0004900e79ff011506358c3eb802bb7f93697f 560 main/binary-arm64/Packages.gz
  9833f81dad26a3e2b45974afa4f7d9690da8eac713280e9af80068da23cbe992 160 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSI311G9M1p7W/rJi3fW5ceBvtQqQUCavoa3gAKCRDfW5ceBvtQ
-qR1xAP0SEzwt0tWTCDev66nHKqIBvqGgk3j+77AxJe3f9yUvFgD8DfhwhCkK4W1w
-mRXR3Xx63AWY9UuEjBJdZGDUqL1CxA0=
-=gbfU
+iHUEARYKAB0WIQSI311G9M1p7W/rJi3fW5ceBvtQqQUCawsYyAAKCRDfW5ceBvtQ
+qZNXAQDUS0OMS5hdzXGyAA9x6iLY5vzXBtqbRh5Tq7cTY+PJXQD9HRzLSIHZij4x
+pAtdrGosCfzOCJv521YKaztgRb1dWws=
+=1YJE
 -----END PGP SIGNATURE-----
